@@ -1,0 +1,11 @@
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
+*.crswap
+
+# 发布用压缩包通过 GitHub Releases 分发，不进入 git 历史
+liuxinghao_chinese-V2.0.zip
+
+# 发布说明草稿
+.release-notes.md
