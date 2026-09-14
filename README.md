@@ -11,7 +11,7 @@
 
 | 方式 | 内容 | 大小 |
 | --- | --- | --- |
-| **压缩包** | [Releases](../../releases) → `liuxinghao_chinese-V2.0.zip` | 约 4.4 MB |
+| **压缩包** | [Releases](../../releases) → `liuxinghao_chinese-V2.0.zip` | 约 2.2 MB |
 | **单文件** | 本仓库 [`patch/src.fwd`](patch/src.fwd) | 4.4 MB |
 
 ## 这个补丁做了什么
@@ -27,9 +27,8 @@
 2. 把 `src.fwd` 复制到游戏目录
 3. 提示「是否覆盖」时选 **覆盖**
 4. 双击 `star.exe` 开始游戏
- **请安装QuickTime 7.7.9这个版本在我的设备上运行不崩溃**
 
-
+> **QuickTime 建议用 7.7.9 版本** —— 我在自己设备上实测这个版本运行不崩溃。
 
 ---
 
